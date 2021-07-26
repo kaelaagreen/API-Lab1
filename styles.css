@@ -1,0 +1,28 @@
+body{
+    background-color: bisque;
+}
+
+p{
+    font-size: 2em;
+}
+
+img{
+    max-width: 13%;
+    height: auto;
+}
+.redditLogo{
+ height: 200px;
+ width: 200px;
+}
+i{
+    font-size: 10rem;
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+}
+
+h1{
+    font-size: 5rem;
+}
